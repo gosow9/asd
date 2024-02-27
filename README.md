@@ -1,6 +1,13 @@
 # asd
 astronomy seeing davos (ASD) scraper for scraping the daily data from the [meteoblue page in davos]('https://www.meteoblue.com/de/wetter/outdoorsports/seeing/davos_schweiz_2661039')  
 # How to use
+## clone the repo
+go to you location you want to have the repo and run 
+'''cmd
+git clone https://github.com/gosow9/asd.git
+'''
+or use your normal workflow to clone the repo. After that go inside the directory asd to proceed installing or using the package.
+
 ### Running it directly as main
 Clone this repo into a local directory. Create a new environment with you favorite python environment manager. Install the requirements file 
 '''cmd
