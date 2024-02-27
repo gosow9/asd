@@ -1,5 +1,5 @@
 # asd
-astronomy seeing davos (ASD) scraper for scraping the daily data from the [meteoblue page in davos]('https://www.meteoblue.com/de/wetter/outdoorsports/seeing/davos_schweiz_2661039')  
+astronomy seeing davos (ASD) scraper for scraping the daily data from the [meteoblue page in davos](https://www.meteoblue.com/de/wetter/outdoorsports/seeing/davos_schweiz_2661039)  
 # How to use
 ## clone the repo
 go to you location you want to have the repo and run 
